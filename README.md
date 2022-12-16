@@ -10,10 +10,9 @@ Health Monitoring Dashboard可以动态显示身体健康数据的交互面板�
 
 安装：
 
-Windows：https://blog.csdn.net/weixin_45899210/article/details/124107405?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-124107405-blog-127751743.pc_relevant_3mothn_strategy_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-124107405-blog-127751743.pc_relevant_3mothn_strategy_recovery&utm_relevant_index=2
+Windows：https://blog.csdn.net/weixin_45899210/article/details/124107405?spm=1001.2014.3001.5502
 
-macos：https://blog.csdn.net/qq_31885421/article/details/82751940?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167115696916800182154215%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167115696916800182154215&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-82751940-null-null.142^v68^control,201^v4^add_ask,213^v2^t3_esquery_v1&utm_term=mac配置vue&spm=1018.2226.3001.4187
-
+macos：https://blog.csdn.net/qq_31885421/article/details/82751940
 
 ## Setup
 
