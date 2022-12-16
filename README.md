@@ -16,11 +16,15 @@ macos：https://blog.csdn.net/qq_31885421/article/details/82751940
 
 ## Setup
 
+使用终端进入项目文件夹
+
+在终端输入
+
 ```tcl
 yarn install
 ```
 ## Running
-使用终端进入项目文件夹
+在终端输入
 ```tcl
 npm run serve
 ```
@@ -31,5 +35,3 @@ npm run serve
 VSCode
 
 WebStorm
-
-
