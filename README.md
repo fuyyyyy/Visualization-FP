@@ -6,7 +6,7 @@ Health Monitoring Dashboard可以动态显示身体健康数据的交互面板�
 
 ## Overview
 
-项目基于vue框架实现，同时使用了dataview和element ui的一些组件，图表使用echarts制作，目前还没有接入后端数据，使用的数据是存储在本地的json文件
+项目基于vue框架实现，同时使用了dataview和element ui的一些组件，图表使用echarts制作，目前还没有接入后端数据，使用的数据是存储在本地的json文件。
 
 安装：
 
