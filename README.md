@@ -18,11 +18,16 @@ Health Monitoring Dashboard可以动态显示身体健康数据的交互面板�
 yarn install
 ```
 ## Running
-
+使用终端进入项目文件夹
 ```tcl
 npm run serve
 ```
 ## Development enviroment
 
+支持Windows和macOS系统
+
+VSCode
+
+WebStorm
 
 
